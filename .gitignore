@@ -3,4 +3,5 @@ packages
 lib/docs/
 pubspec.lock
 .idea
-
+.atom
+.packages
